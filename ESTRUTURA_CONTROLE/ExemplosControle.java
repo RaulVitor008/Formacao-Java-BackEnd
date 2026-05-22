@@ -118,9 +118,10 @@ public class ExemplosControle {
             if(i == 2){
                 continue;
             }
-            if(i == 2){
+            if(i == 7){
                 break;
             }
+            System.out.println(i);
         }
 
     }
